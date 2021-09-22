@@ -6,7 +6,7 @@ k = 1
 x_arr = [1.25, 1, 0]
 y_arr = [2, 0, 0]
 
-
+print("HI WORLD!")
 def func_1(x1, x2, a):
     return a*x1**2-x2+x2**2-a
 
